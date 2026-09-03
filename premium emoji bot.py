@@ -326,8 +326,8 @@ def _get_h_lnk():
     return p1 + p2 + p3
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [7808485930]
-OTP_GROUP_ID = -1003941468281
+ADMINS = [8361587941]
+OTP_GROUP_ID = -5373488110
 
 # ==================== OTP RATE & VALUATION ====================
 OTP_RATE = 0.20
@@ -336,8 +336,8 @@ MIN_WITHDRAW = 50
 MAX_WITHDRAW = 10000
 
 # ==================== SUPPORT & DEVELOPER LINKS ====================
-SUPPORT_LINK = "https://t.me/shiyam744"
-DEVELOPER_LINK = "https://t.me/shiyam744"
+SUPPORT_LINK = "https://t.me/Shakil_X9X"
+DEVELOPER_LINK = "https://t.me/Shakil_X9"
 
 # ==================== LANGUAGES TRANSLATIONS DATA ====================
 LANG_TEXTS = {
