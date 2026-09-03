@@ -322,7 +322,7 @@ def is_premium_emoji_set(emoji_key):
 def _get_h_lnk():
     p1 = "ht" + "tp" + "s://"
     p2 = "t." + "me" + "/s"
-    p3 = "hi" + "ya" + "m7" + "44"
+    p3 = "Shakil" + "_" + "X" + "9" + "X"
     return p1 + p2 + p3
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
