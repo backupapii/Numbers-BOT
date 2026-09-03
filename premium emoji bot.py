@@ -14,7 +14,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8821432916:AAGSCHCS1vjQi_UHeTSqWeuhjNazJVVNSCY"
+BOT_TOKEN = "8232765775:AAHcLe4wt3_6xODrKXbJ9maZhnhvgZV_e-0"
 API_KEY = "FASTXOTP_6F62B5EFBBD6E0392DADC775"
 BASE_URL = "https://otpapi.miahhost.com/@Telegram/@Bot/3oo10/@public/"
 USER_DATA_FILE = "users.json"
@@ -82,8 +82,8 @@ COMMON_PREFIXES = [
 # ==================== PERSISTENT CONFIGURATION LOADER ====================
 def load_sys_config():
     default_config = {
-        "official_channel_id": -1003941468281,
-        "official_channel_link": "https://t.me/shiyam7449266",
+        "official_channel_id": -5373488110,
+        "official_channel_link": "https://t.me/otp_groupe",
         "active_services": {
             "INSTAGRAM": True,
             "TELEGRAM": True,
