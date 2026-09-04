@@ -14,7 +14,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8232765775:AAHcLe4wt3_6xODrKXbJ9maZhnhvgZV_e-0"
+BOT_TOKEN = "8977869410:AAHMNaCMwaxN3Ulo1BVRETEtJdmAT-0vM3A"
 API_KEY = "FASTXOTP_6F62B5EFBBD6E0392DADC775"
 BASE_URL = "https://otpapi.miahhost.com/@Telegram/@Bot/3oo10/@public/"
 USER_DATA_FILE = "users.json"
